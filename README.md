@@ -1,0 +1,1 @@
+# app_giroscopio_react
